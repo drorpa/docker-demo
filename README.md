@@ -1,2 +1,2 @@
 # docker-demo
-Demo to intro about Docker containers
+Demo for intro to Docker containers
